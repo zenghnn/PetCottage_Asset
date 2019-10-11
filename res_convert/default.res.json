@@ -1,0 +1,75 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,UI_json,UI_png,UI_json,UI_png,UI_json,UI_png,UI_json,UI_png,UI_json,UI_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"url": "assets/ui/UI.json",
+			"type": "sheet",
+			"name": "UI_json",
+			"subkeys": "AM_Close,AM_Close_Push,AM_Open,AM_Open_Push,BU_DecoArrow,BU_DecoCell,BU_Move,BU_SendToInventory,BU_Swap,BU_ToolsBg,BU_Trash,BU_Upgrade,Badge,BtnBuild,BtnFury,BtnFury_Push,BtnInventory,BtnLocation,BtnMore,BtnSocial,Btn_facebook,Btn_share,Btn_twitter,Bubble_Hello,Bubble_ThankYou,Bubble_Yeah,C_LvlUp,Close,Delete,DialogDwnArrow,Email,GoalProgress,Goal_Avigator,Goal_Billy,Goal_Dahlia,Goal_Darth,Goal_Floozy,Goal_Nyok,Goal_Pepin,Goal_Sopica,Goal_Stella,Goal_Sunny,Goal_Time,Goal_Train,Goal_Zoe,GuestStar,Help,IG_Coin,IG_Egg,IG_Flooz,IG_Iron,IG_LevelScrollBarAdd,IG_LevelScrollBarBG,IG_LevelScrollBarBar,IG_LevelScrollBarFG,IG_ShellCoin,IG_Stone,IG_Token,IG_Wood,IG_Xp,NeedFood,NeedFun,NeedGoods,NeedSocial,No,Phone,QuestionMark,Rays,Share_FB,Share_Twitter,SignP_Birthday,SignP_LookFor,SignP_LookForBiz,SignP_PepinQuest,SignP_Quest,Sign_AddTourist,Sign_Bus,Sign_Constructing,Sign_Craft,Sign_Crate,Sign_Idle,Sign_Invite,Sign_Letter,Sign_Plane,Sign_Play,Sign_PlayDS,Sign_Rock,Sign_SpeedFlooz,Sign_Stop,Sign_Taxi,Sign_Universalexibition,Sign_Upgrade,Sign_Upgrade_NeedResources,Sign_VisitorAction,Sign_VisitorAction_time,Sign_Water,Sign_Wood,Sign_Write,Skin_BG,Skin_Btn,Skin_BtnFB,Skin_BtnGreen,Skin_BtnNotFocused,Skin_BtnPink,Skin_BtnYellow,Skin_InvBG,Skin_InvRightBG,Skin_ItemRelief,Skin_Orange,Skin_ReliefBrown,Skin_Stock,Skin_Text,TopBar,TopBarCoins,TopBarCoinsBg,TopBarFlooz,TopBarHeart,TopBarLvl,TopBarShellCoins,WhiteSquare,Yes"
+		},
+		{
+			"url": "assets/ui/UI.png",
+			"type": "image",
+			"name": "UI_png"
+		},
+		{
+			"url": "assets/ui/UI.json",
+			"type": "sheet",
+			"name": "UI_json",
+			"subkeys": "AM_Close,AM_Close_Push,AM_Open,AM_Open_Push,BU_DecoArrow,BU_DecoCell,BU_Move,BU_SendToInventory,BU_Swap,BU_ToolsBg,BU_Trash,BU_Upgrade,Badge,BtnBuild,BtnFury,BtnFury_Push,BtnInventory,BtnLocation,BtnMore,BtnSocial,Btn_facebook,Btn_share,Btn_twitter,Bubble_Hello,Bubble_ThankYou,Bubble_Yeah,C_LvlUp,Close,Delete,DialogDwnArrow,Email,GoalProgress,Goal_Avigator,Goal_Billy,Goal_Dahlia,Goal_Darth,Goal_Floozy,Goal_Nyok,Goal_Pepin,Goal_Sopica,Goal_Stella,Goal_Sunny,Goal_Time,Goal_Train,Goal_Zoe,GuestStar,Help,IG_Coin,IG_Egg,IG_Flooz,IG_Iron,IG_LevelScrollBarAdd,IG_LevelScrollBarBG,IG_LevelScrollBarBar,IG_LevelScrollBarFG,IG_ShellCoin,IG_Stone,IG_Token,IG_Wood,IG_Xp,NeedFood,NeedFun,NeedGoods,NeedSocial,No,Phone,QuestionMark,Rays,Share_FB,Share_Twitter,SignP_Birthday,SignP_LookFor,SignP_LookForBiz,SignP_PepinQuest,SignP_Quest,Sign_AddTourist,Sign_Bus,Sign_Constructing,Sign_Craft,Sign_Crate,Sign_Idle,Sign_Invite,Sign_Letter,Sign_Plane,Sign_Play,Sign_PlayDS,Sign_Rock,Sign_SpeedFlooz,Sign_Stop,Sign_Taxi,Sign_Universalexibition,Sign_Upgrade,Sign_Upgrade_NeedResources,Sign_VisitorAction,Sign_VisitorAction_time,Sign_Water,Sign_Wood,Sign_Write,Skin_BG,Skin_Btn,Skin_BtnFB,Skin_BtnGreen,Skin_BtnNotFocused,Skin_BtnPink,Skin_BtnYellow,Skin_InvBG,Skin_InvRightBG,Skin_ItemRelief,Skin_Orange,Skin_ReliefBrown,Skin_Stock,Skin_Text,TopBar,TopBarCoins,TopBarCoinsBg,TopBarFlooz,TopBarHeart,TopBarLvl,TopBarShellCoins,WhiteSquare,Yes"
+		},
+		{
+			"url": "assets/ui/UI.png",
+			"type": "image",
+			"name": "UI_png"
+		},
+		{
+			"url": "assets/ui/UI.json",
+			"type": "sheet",
+			"name": "UI_json",
+			"subkeys": "AM_Close,AM_Close_Push,AM_Open,AM_Open_Push,BU_DecoArrow,BU_DecoCell,BU_Move,BU_SendToInventory,BU_Swap,BU_ToolsBg,BU_Trash,BU_Upgrade,Badge,BtnBuild,BtnFury,BtnFury_Push,BtnInventory,BtnLocation,BtnMore,BtnSocial,Btn_facebook,Btn_share,Btn_twitter,Bubble_Hello,Bubble_ThankYou,Bubble_Yeah,C_LvlUp,Close,Delete,DialogDwnArrow,Email,GoalProgress,Goal_Avigator,Goal_Billy,Goal_Dahlia,Goal_Darth,Goal_Floozy,Goal_Nyok,Goal_Pepin,Goal_Sopica,Goal_Stella,Goal_Sunny,Goal_Time,Goal_Train,Goal_Zoe,GuestStar,Help,IG_Coin,IG_Egg,IG_Flooz,IG_Iron,IG_LevelScrollBarAdd,IG_LevelScrollBarBG,IG_LevelScrollBarBar,IG_LevelScrollBarFG,IG_ShellCoin,IG_Stone,IG_Token,IG_Wood,IG_Xp,NeedFood,NeedFun,NeedGoods,NeedSocial,No,Phone,QuestionMark,Rays,Share_FB,Share_Twitter,SignP_Birthday,SignP_LookFor,SignP_LookForBiz,SignP_PepinQuest,SignP_Quest,Sign_AddTourist,Sign_Bus,Sign_Constructing,Sign_Craft,Sign_Crate,Sign_Idle,Sign_Invite,Sign_Letter,Sign_Plane,Sign_Play,Sign_PlayDS,Sign_Rock,Sign_SpeedFlooz,Sign_Stop,Sign_Taxi,Sign_Universalexibition,Sign_Upgrade,Sign_Upgrade_NeedResources,Sign_VisitorAction,Sign_VisitorAction_time,Sign_Water,Sign_Wood,Sign_Write,Skin_BG,Skin_Btn,Skin_BtnFB,Skin_BtnGreen,Skin_BtnNotFocused,Skin_BtnPink,Skin_BtnYellow,Skin_InvBG,Skin_InvRightBG,Skin_ItemRelief,Skin_Orange,Skin_ReliefBrown,Skin_Stock,Skin_Text,TopBar,TopBarCoins,TopBarCoinsBg,TopBarFlooz,TopBarHeart,TopBarLvl,TopBarShellCoins,WhiteSquare,Yes"
+		},
+		{
+			"url": "assets/ui/UI.png",
+			"type": "image",
+			"name": "UI_png"
+		},
+		{
+			"url": "../picMix/UI.json",
+			"type": "sheet",
+			"name": "UI_json",
+			"subkeys": "AM_Close,AM_Close_Push,AM_Open,AM_Open_Push,BU_DecoArrow,BU_DecoCell,BU_Move,BU_SendToInventory,BU_Swap,BU_ToolsBg,BU_Trash,BU_Upgrade,Badge,BtnBuild,BtnFury,BtnFury_Push,BtnInventory,BtnLocation,BtnMore,BtnSocial,Btn_facebook,Btn_share,Btn_twitter,Bubble_Hello,Bubble_ThankYou,Bubble_Yeah,C_LvlUp,Close,Delete,DialogDwnArrow,Email,GoalProgress,Goal_Avigator,Goal_Billy,Goal_Dahlia,Goal_Darth,Goal_Floozy,Goal_Nyok,Goal_Pepin,Goal_Sopica,Goal_Stella,Goal_Sunny,Goal_Time,Goal_Train,Goal_Zoe,GuestStar,Help,IG_Coin,IG_Egg,IG_Flooz,IG_Iron,IG_LevelScrollBarAdd,IG_LevelScrollBarBG,IG_LevelScrollBarBar,IG_LevelScrollBarFG,IG_ShellCoin,IG_Stone,IG_Token,IG_Wood,IG_Xp,NeedFood,NeedFun,NeedGoods,NeedSocial,No,Phone,QuestionMark,Rays,Share_FB,Share_Twitter,SignP_Birthday,SignP_LookFor,SignP_LookForBiz,SignP_PepinQuest,SignP_Quest,Sign_AddTourist,Sign_Bus,Sign_Constructing,Sign_Craft,Sign_Crate,Sign_Idle,Sign_Invite,Sign_Letter,Sign_Plane,Sign_Play,Sign_PlayDS,Sign_Rock,Sign_SpeedFlooz,Sign_Stop,Sign_Taxi,Sign_Universalexibition,Sign_Upgrade,Sign_Upgrade_NeedResources,Sign_VisitorAction,Sign_VisitorAction_time,Sign_Water,Sign_Wood,Sign_Write,Skin_BG,Skin_Btn,Skin_BtnFB,Skin_BtnGreen,Skin_BtnNotFocused,Skin_BtnPink,Skin_BtnYellow,Skin_InvBG,Skin_InvRightBG,Skin_ItemRelief,Skin_Orange,Skin_ReliefBrown,Skin_Stock,Skin_Text,TopBar,TopBarCoins,TopBarCoinsBg,TopBarFlooz,TopBarHeart,TopBarLvl,TopBarShellCoins,WhiteSquare,Yes"
+		},
+		{
+			"url": "../picMix/UI.png",
+			"type": "image",
+			"name": "UI_png"
+		},
+		{
+			"url": "../picMix/UI.json",
+			"type": "sheet",
+			"name": "UI_json",
+			"subkeys": "AM_Close,AM_Close_Push,AM_Open,AM_Open_Push,BU_DecoArrow,BU_DecoCell,BU_Move,BU_SendToInventory,BU_Swap,BU_ToolsBg,BU_Trash,BU_Upgrade,Badge,BtnBuild,BtnFury,BtnFury_Push,BtnInventory,BtnLocation,BtnMore,BtnSocial,Btn_facebook,Btn_share,Btn_twitter,Bubble_Hello,Bubble_ThankYou,Bubble_Yeah,C_LvlUp,Close,Delete,DialogDwnArrow,Email,GoalProgress,Goal_Avigator,Goal_Billy,Goal_Dahlia,Goal_Darth,Goal_Floozy,Goal_Nyok,Goal_Pepin,Goal_Sopica,Goal_Stella,Goal_Sunny,Goal_Time,Goal_Train,Goal_Zoe,GuestStar,Help,IG_Coin,IG_Egg,IG_Flooz,IG_Iron,IG_LevelScrollBarAdd,IG_LevelScrollBarBG,IG_LevelScrollBarBar,IG_LevelScrollBarFG,IG_ShellCoin,IG_Stone,IG_Token,IG_Wood,IG_Xp,NeedFood,NeedFun,NeedGoods,NeedSocial,No,Phone,QuestionMark,Rays,Share_FB,Share_Twitter,SignP_Birthday,SignP_LookFor,SignP_LookForBiz,SignP_PepinQuest,SignP_Quest,Sign_AddTourist,Sign_Bus,Sign_Constructing,Sign_Craft,Sign_Crate,Sign_Idle,Sign_Invite,Sign_Letter,Sign_Plane,Sign_Play,Sign_PlayDS,Sign_Rock,Sign_SpeedFlooz,Sign_Stop,Sign_Taxi,Sign_Universalexibition,Sign_Upgrade,Sign_Upgrade_NeedResources,Sign_VisitorAction,Sign_VisitorAction_time,Sign_Water,Sign_Wood,Sign_Write,Skin_BG,Skin_Btn,Skin_BtnFB,Skin_BtnGreen,Skin_BtnNotFocused,Skin_BtnPink,Skin_BtnYellow,Skin_InvBG,Skin_InvRightBG,Skin_ItemRelief,Skin_Orange,Skin_ReliefBrown,Skin_Stock,Skin_Text,TopBar,TopBarCoins,TopBarCoinsBg,TopBarFlooz,TopBarHeart,TopBarLvl,TopBarShellCoins,WhiteSquare,Yes"
+		},
+		{
+			"url": "../picMix/UI.png",
+			"type": "image",
+			"name": "UI_png"
+		}
+	]
+}
